@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="981cef48-67ec-4ddf-bb98-d334b017755a" name="Changes" comment="Pushing Change Detection app">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/ChangeDetection.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/ChangeDetection.py" afterDir="false" />
-    </list>
+    <list default="true" id="981cef48-67ec-4ddf-bb98-d334b017755a" name="Changes" comment="Pushing Change Detection app" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +79,7 @@
       <workItem from="1669782927367" duration="24000" />
       <workItem from="1669782981691" duration="9553000" />
       <workItem from="1669948122698" duration="5213000" />
-      <workItem from="1670257561577" duration="22186000" />
+      <workItem from="1670257561577" duration="22871000" />
     </task>
     <task id="LOCAL-00001" summary="Pushing Change Detection app">
       <created>1670351012920</created>
@@ -98,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670351262080</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Pushing Change Detection app">
+      <created>1670354461294</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670354461294</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
